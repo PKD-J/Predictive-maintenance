@@ -1,6 +1,5 @@
 """
 ================================================================
-Vibration Forecasting v2.0
 LightGBM + Optuna + Feature Engineering + Trend Analysis
 ================================================================
 ติดตั้ง dependencies:
